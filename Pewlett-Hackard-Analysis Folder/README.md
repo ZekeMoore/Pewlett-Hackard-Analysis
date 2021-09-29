@@ -15,7 +15,7 @@ The major findings as follows:
 
 Retiring Titles Table 
 
-![retiring_titles]https://github.com/ZekeMoore/Pewlett-Hackard-Analysis/blob/1fc50043816c9167a34094461e6b5f73d14f4c8d/Pewlett-Hackard-Analysis%20Folder/Resources/retiring_titles.png
+![retiring_titles](https://github.com/ZekeMoore/Pewlett-Hackard-Analysis/blob/1fc50043816c9167a34094461e6b5f73d14f4c8d/Pewlett-Hackard-Analysis%20Folder/Resources/retiring_titles.png)
 
 * Retiring Titles table provides the information about how many employees are going to retire per job title. Company may think about balancing the age of employees in the future to avoid mass retirements.
 
@@ -23,7 +23,7 @@ Retiring Titles Table
 
 Mentorship Eligibility Table
 
-![mentorship_eligibility]https://github.com/ZekeMoore/Pewlett-Hackard-Analysis/blob/2e34b87986253396ce753aa360f332210b736dba/Pewlett-Hackard-Analysis%20Folder/Resources/retirement_eligibility.png
+![mentorship_eligibility](https://github.com/ZekeMoore/Pewlett-Hackard-Analysis/blob/2e34b87986253396ce753aa360f332210b736dba/Pewlett-Hackard-Analysis%20Folder/Resources/retirement_eligibility.png)
 
 * Mentorship Eligibility gives the information about current job title of those who retire soon. It means that company can see the positions which will be free in the future.
 
