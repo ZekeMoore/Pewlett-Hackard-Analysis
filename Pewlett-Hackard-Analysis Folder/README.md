@@ -15,7 +15,7 @@ The major findings as follows:
 
 Retiring Titles Table 
 
-![retiring_titles]Pewlett-Hackard-Analysis Folder/Resources/retirement_eligibility.png
+![retiring_titles]https://github.com/ZekeMoore/Pewlett-Hackard-Analysis/blob/1fc50043816c9167a34094461e6b5f73d14f4c8d/Pewlett-Hackard-Analysis%20Folder/Resources/retiring_titles.png
 
 * Retiring Titles table provides the information about how many employees are going to retire per job title. Company may think about balancing the age of employees in the future to avoid mass retirements.
 
