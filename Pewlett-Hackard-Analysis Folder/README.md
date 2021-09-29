@@ -25,9 +25,9 @@ Mentorship Eligibility Table
 
 ![mentorship_eligibility](https://github.com/ZekeMoore/Pewlett-Hackard-Analysis/blob/2e34b87986253396ce753aa360f332210b736dba/Pewlett-Hackard-Analysis%20Folder/Resources/retirement_eligibility.png)
 
-* Mentorship Eligibility gives the information about current job title of those who retire soon. It means that company can see the positions which will be free in the future.
+* Mentorship Eligibility gives us the information about the current job titles of whom will be retiring soon. This means that the company can see which positions will have openings in the near future.
 
-* Also, from the Mentorship Eligibility the company can see the order of positions which will be free soon. Based on this information HR can set the priorities and plan the hiring in advance.
+* From the Mentorship Eligibility chart the company can see the order of which positions will be opened up. Based on this information, the HR department can set the priorities and plans for hiring replacements in advance.
 
 
 ## Summary
