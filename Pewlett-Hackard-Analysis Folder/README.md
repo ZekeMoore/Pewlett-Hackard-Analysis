@@ -23,7 +23,7 @@ Retiring Titles Table
 
 Mentorship Eligibility Table
 
-![mentorship_eligibility]Pewlett-Hackard-Analysis Folder/Resources/retiring_titles.png
+![mentorship_eligibility]https://github.com/ZekeMoore/Pewlett-Hackard-Analysis/blob/2e34b87986253396ce753aa360f332210b736dba/Pewlett-Hackard-Analysis%20Folder/Resources/retirement_eligibility.png
 
 * Mentorship Eligibility gives the information about current job title of those who retire soon. It means that company can see the positions which will be free in the future.
 
